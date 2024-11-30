@@ -63,6 +63,7 @@ static boolean areAnagrams(String s1, String s2) {
         // If all conditions satisfied, they are anagrams
         return true;
     }
+//Time complexity:O(m+n)
 
 //Approach 3 . Instead of hashMap use frequency Array
 // As the input strings can only have lowercase 
@@ -89,3 +90,4 @@ static boolean areAnagrams(String s1, String s2) {
 
         return true;
     }
+//Time complexity:O(m+n)
