@@ -40,3 +40,5 @@ class Solution {
         return head;
     }
 }
+//Time Complexity:O(n), where n is the number of nodes in the linked list.
+//Space Complexity:O(1)
